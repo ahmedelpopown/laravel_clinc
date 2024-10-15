@@ -20,6 +20,8 @@
 
                 <a type="button" class="btn btn-outline-light navigation--button" href="{{route("login.index")}}">login</a>
 
+                <a type="button" class="btn btn-outline-light navigation--button" href="{{route("products.index")}}">products</a>
+
             </div>
         </div>
     </div>
